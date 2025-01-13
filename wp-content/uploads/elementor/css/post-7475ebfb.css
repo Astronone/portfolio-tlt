@@ -1,0 +1,29 @@
+.elementor-7475 .elementor-element.elementor-element-48733a9 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:20px;}.elementor-7475 .elementor-element.elementor-element-3e0f443 .elementor-heading-title{text-transform:none;}.elementor-7475 .elementor-element.elementor-element-3e0f443 > .elementor-widget-container{margin:0px 0px 20px 0px;}.elementor-7475 .elementor-element.elementor-element-64680b0{text-align:justify;font-family:"myriad", Sans-serif;font-size:18px;}.elementor-7475 .elementor-element.elementor-element-2854934{text-align:justify;font-family:"myriad", Sans-serif;font-size:18px;}.elementor-7475 .elementor-element.elementor-element-aad109e{text-align:justify;font-family:"myriad", Sans-serif;font-size:18px;}.elementor-7475 .elementor-element.elementor-element-830dc5f{text-align:justify;font-family:"myriad", Sans-serif;font-size:18px;}.elementor-7475 .elementor-element.elementor-element-ca353fd{text-align:justify;font-family:"myriad", Sans-serif;font-size:18px;}.elementor-7475 .elementor-element.elementor-element-9745869 img{height:400px;object-fit:contain;}.elementor-7475 .elementor-element.elementor-element-f6dd673{text-align:justify;}.elementor-7475 .elementor-element.elementor-element-ac3fcee{text-align:justify;}.elementor-7475 .elementor-element.elementor-element-bb91dfa{text-align:justify;}.elementor-7475 .elementor-element.elementor-element-2a704ba{text-align:justify;}.elementor-7475 .elementor-element.elementor-element-ddedac6{text-align:justify;}.elementor-7475 .elementor-element.elementor-element-4ea30ea .qodef-m-text{color:var( --e-global-color-acaa67a );font-size:28px;text-transform:none;font-style:normal;}.elementor-7475 .elementor-element.elementor-element-604171d .eael-call-to-action{max-width:1170px;background-color:var( --e-global-color-acaa67a );}.elementor-7475 .elementor-element.elementor-element-604171d .eael-call-to-action.bg-img:after{background-color:var( --e-global-color-acaa67a );}.elementor-7475 .elementor-element.elementor-element-604171d .eael-call-to-action .title{color:var( --e-global-color-2add3ea );font-family:"Montserrat", Sans-serif;font-size:28px;font-weight:700;}.elementor-7475 .elementor-element.elementor-element-604171d .eael-call-to-action .sub-title{color:var( --e-global-color-c9bc463 );}.elementor-7475 .elementor-element.elementor-element-604171d .eael-call-to-action p{color:var( --e-global-color-2add3ea );font-size:16px;font-weight:500;}.elementor-7475 .elementor-element.elementor-element-604171d .eael-call-to-action .cta-button{font-size:16px;font-weight:600;letter-spacing:1px;}.elementor-7475 .elementor-element.elementor-element-604171d .eael-call-to-action .cta-button.cta-btn-preset-2 i{font-size:20px;}.elementor-7475 .elementor-element.elementor-element-604171d .eael-call-to-action .cta-button.cta-btn-preset-2 svg{width:20px;height:20px;}.elementor-7475 .elementor-element.elementor-element-604171d .eael-call-to-action.cta-preset-1:not(.cta-preset-2) .cta-button:not(.cta-secondary-button){color:var( --e-global-color-2add3ea );background:var( --e-global-color-accent );}.elementor-7475 .elementor-element.elementor-element-604171d .eael-call-to-action.cta-preset-1:not(.cta-preset-2) .cta-button:hover:not(.cta-secondary-button){color:#f9f9f9;background:var( --e-global-color-632f85d );}.elementor-7475 .elementor-element.elementor-element-604171d .eael-call-to-action.cta-preset-1:not(.cta-preset-2) .cta-button:after:not(.cta-secondary-button){background:var( --e-global-color-632f85d );}.elementor-7475 .elementor-element.elementor-element-604171d .eael-call-to-action .cta-button.effect-1:after{background:var( --e-global-color-632f85d );}.elementor-7475 .elementor-element.elementor-element-604171d .eael-call-to-action .cta-button.effect-2:after{background:var( --e-global-color-632f85d );}@media(max-width:767px){.elementor-7475 .elementor-element.elementor-element-3e0f443 .elementor-heading-title{font-size:24px;}.elementor-7475 .elementor-element.elementor-element-4ea30ea .qodef-m-text{font-size:20px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'myriad';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../2024/01/MYRIADPRO-BOLD.woff') format('woff');
+}
+@font-face {
+	font-family: 'myriad';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2024/01/MYRIADPRO-REGULAR.woff') format('woff');
+}
+@font-face {
+	font-family: 'myriad';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../../2024/01/MyriadPro-Light.woff') format('woff');
+}
+@font-face {
+	font-family: 'myriad';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('../../2024/01/MYRIADPRO-SEMIBOLD.woff') format('woff');
+}
+/* End Custom Fonts CSS */

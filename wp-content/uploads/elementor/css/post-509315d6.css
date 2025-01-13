@@ -1,0 +1,29 @@
+.elementor-5093 .elementor-element.elementor-element-4f2f5ea{padding:50px 100px 50px 100px;}.elementor-bc-flex-widget .elementor-5093 .elementor-element.elementor-element-34886b4.elementor-column .elementor-widget-wrap{align-items:flex-start;}.elementor-5093 .elementor-element.elementor-element-34886b4.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-start;align-items:flex-start;}.elementor-5093 .elementor-element.elementor-element-34886b4 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-5093 .elementor-element.elementor-element-2e9fdf2{text-align:center;}.elementor-5093 .elementor-element.elementor-element-2e9fdf2 .elementor-heading-title{color:var( --e-global-color-b078c94 );font-family:"myriad", Sans-serif;font-size:64px;text-transform:none;font-style:normal;}.elementor-5093 .elementor-element.elementor-element-2e9fdf2 > .elementor-widget-container{margin:20px 0px 0px 0px;}.elementor-5093 .elementor-element.elementor-element-bc0662c{--divider-border-style:solid;--divider-color:#000;--divider-border-width:2px;}.elementor-5093 .elementor-element.elementor-element-bc0662c .elementor-divider-separator{width:50%;margin:0 auto;margin-center:0;}.elementor-5093 .elementor-element.elementor-element-bc0662c .elementor-divider{text-align:center;padding-top:2px;padding-bottom:2px;}.elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-post__meta-data span + span:before{content:"•";}.elementor-5093 .elementor-element.elementor-element-73c7683{--grid-column-gap:30px;--grid-row-gap:35px;}.elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-post__card .elementor-post__meta-data{border-top-color:var( --e-global-color-b078c94 );}.elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-post__text{margin-top:20px;}.elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-post__title, .elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-post__title a{color:var( --e-global-color-b078c94 );font-family:"myriad", Sans-serif;font-size:24px;font-weight:600;text-transform:none;}.elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-post__meta-data{color:var( --e-global-color-secondary );font-family:"myriad", Sans-serif;}.elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-post__excerpt p{color:var( --e-global-color-text );font-family:"myriad", Sans-serif;}.elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-post__read-more{color:var( --e-global-color-acaa67a );}.elementor-5093 .elementor-element.elementor-element-73c7683 a.elementor-post__read-more{font-family:"myriad", Sans-serif;}.elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-pagination{text-align:center;font-family:"myriad", Sans-serif;font-weight:600;margin-top:50px;}.elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-pagination .page-numbers:not(.dots){color:var( --e-global-color-b078c94 );}.elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-pagination a.page-numbers:hover{color:var( --e-global-color-acaa67a );}.elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-pagination .page-numbers.current{color:var( --e-global-color-acaa67a );}body:not(.rtl) .elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-pagination .page-numbers:not(:first-child){margin-left:calc( 10px/2 );}body:not(.rtl) .elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-pagination .page-numbers:not(:last-child){margin-right:calc( 10px/2 );}body.rtl .elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-pagination .page-numbers:not(:first-child){margin-right:calc( 10px/2 );}body.rtl .elementor-5093 .elementor-element.elementor-element-73c7683 .elementor-pagination .page-numbers:not(:last-child){margin-left:calc( 10px/2 );}.elementor-5093 .elementor-element.elementor-element-73c7683 > .elementor-widget-container{margin:50px 0px 0px 0px;background-image:url("../../2023/09/no-text-logo.png");background-position:center center;background-repeat:no-repeat;background-size:cover;}@media(max-width:1024px){.elementor-5093 .elementor-element.elementor-element-4f2f5ea{padding:0px 50px 0px 50px;}}@media(max-width:767px){.elementor-5093 .elementor-element.elementor-element-4f2f5ea{padding:0px 0px 0px 0px;}.elementor-5093 .elementor-element.elementor-element-2e9fdf2 .elementor-heading-title{font-size:48px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'myriad';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../2024/01/MYRIADPRO-BOLD.woff') format('woff');
+}
+@font-face {
+	font-family: 'myriad';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2024/01/MYRIADPRO-REGULAR.woff') format('woff');
+}
+@font-face {
+	font-family: 'myriad';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../../2024/01/MyriadPro-Light.woff') format('woff');
+}
+@font-face {
+	font-family: 'myriad';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('../../2024/01/MYRIADPRO-SEMIBOLD.woff') format('woff');
+}
+/* End Custom Fonts CSS */

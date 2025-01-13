@@ -1,0 +1,104 @@
+@font-face {
+  font-family: 'uphome_font';
+  src: url('../fonts/uphome_font8802.html?76423755');
+  src: url('../fonts/uphome_font8802.html?76423755#iefix') format('embedded-opentype'),
+       url('../fonts/uphome_font8802.woff?76423755') format('woff'),
+       url('../fonts/uphome_font8802.ttf?76423755') format('truetype'),
+       url('../fonts/uphome_font8802.svg?76423755#uphome_font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'uphome_font';
+    src: url('../font/uphome_font.svg?76423755#uphome_font') format('svg');
+  }
+}
+*/
+ 
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "uphome_font";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.icon-006-arch:before { content: '\e805'; } /* '' */
+.icon-007-building:before { content: '\e806'; } /* '' */
+.icon-008-house:before { content: '\e807'; } /* '' */
+.icon-009-house-1:before { content: '\e808'; } /* '' */
+.icon-010-column:before { content: '\e809'; } /* '' */
+.icon-011-house-2:before { content: '\e80a'; } /* '' */
+.icon-012-painting-tool:before { content: '\e80b'; } /* '' */
+.icon-013-buildings:before { content: '\e80c'; } /* '' */
+.icon-014-metering:before { content: '\e80d'; } /* '' */
+.icon-015-blueprint:before { content: '\e80e'; } /* '' */
+.icon-016-repair:before { content: '\e80f'; } /* '' */
+.icon-017-architect:before { content: '\e810'; } /* '' */
+.icon-018-compass:before { content: '\e811'; } /* '' */
+.icon-019-crane:before { content: '\e812'; } /* '' */
+.icon-020-pencil:before { content: '\e813'; } /* '' */
+.icon-021-window:before { content: '\e814'; } /* '' */
+.icon-022-chair:before { content: '\e815'; } /* '' */
+.icon-023-armchair:before { content: '\e816'; } /* '' */
+.icon-024-cushion:before { content: '\e817'; } /* '' */
+.icon-025-photograph:before { content: '\e818'; } /* '' */
+.icon-026-couch:before { content: '\e819'; } /* '' */
+.icon-027-column-1:before { content: '\e81a'; } /* '' */
+.icon-028-painting:before { content: '\e81b'; } /* '' */
+.icon-029-vase:before { content: '\e81c'; } /* '' */
+.icon-030-poster:before { content: '\e81d'; } /* '' */
+.icon-031-ceiling-lamp:before { content: '\e81e'; } /* '' */
+.icon-032-curtains:before { content: '\e81f'; } /* '' */
+.icon-033-drawer:before { content: '\e820'; } /* '' */
+.icon-034-tv-table:before { content: '\e821'; } /* '' */
+.icon-035-chair-1:before { content: '\e822'; } /* '' */
+.icon-036-lamp:before { content: '\e823'; } /* '' */
+.icon-037-candelabra:before { content: '\e824'; } /* '' */
+.icon-038-wardrobe:before { content: '\e825'; } /* '' */
+.icon-039-star:before { content: '\e826'; } /* '' */
+.icon-040-google-play:before { content: '\e827'; } /* '' */
+.icon-041-app-store:before { content: '\e828'; } /* '' */
+.icon-042-light:before { content: '\e829'; } /* '' */
+.icon-043-chair-2:before { content: '\e82a'; } /* '' */
+.icon-044-armchair-1:before { content: '\e82b'; } /* '' */
+.icon-046-lamp-1:before { content: '\e82d'; } /* '' */
+.icon-047-bedside-table:before { content: '\e82e'; } /* '' */
+.icon-048-dresser:before { content: '\e82f'; } /* '' */
+.icon-049-frame:before { content: '\e830'; } /* '' */
+.icon-050-dresser-1:before { content: '\e831'; } /* '' */
+.icon-051-bunk-bed:before { content: '\e832'; } /* '' */
+.icon-052-tv-table-1:before { content: '\e833'; } /* '' */
+.icon-053-sofa:before { content: '\e834'; } /* '' */
+.icon-054-chandelier:before { content: '\e835'; } /* '' */

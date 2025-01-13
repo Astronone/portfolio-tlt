@@ -1,0 +1,29 @@
+.elementor-7413 .elementor-element.elementor-element-48733a9 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:20px;}.elementor-7413 .elementor-element.elementor-element-3e0f443 .elementor-heading-title{text-transform:none;}.elementor-7413 .elementor-element.elementor-element-3e0f443 > .elementor-widget-container{margin:0px 0px 20px 0px;}.elementor-7413 .elementor-element.elementor-element-64680b0{text-align:justify;font-family:"myriad", Sans-serif;font-size:18px;}.elementor-7413 .elementor-element.elementor-element-b33fe47{color:var( --e-global-color-b078c94 );font-family:"Montserrat", Sans-serif;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'myriad';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../2024/01/MYRIADPRO-BOLD.woff') format('woff');
+}
+@font-face {
+	font-family: 'myriad';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2024/01/MYRIADPRO-REGULAR.woff') format('woff');
+}
+@font-face {
+	font-family: 'myriad';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../../2024/01/MyriadPro-Light.woff') format('woff');
+}
+@font-face {
+	font-family: 'myriad';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('../../2024/01/MYRIADPRO-SEMIBOLD.woff') format('woff');
+}
+/* End Custom Fonts CSS */
